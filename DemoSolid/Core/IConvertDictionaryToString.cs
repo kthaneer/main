@@ -7,3 +7,4 @@ namespace Core
         string ConvertValuesToString(Dictionary<int, int> dictValues);
     }
 }
+
